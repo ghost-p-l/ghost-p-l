@@ -46,7 +46,8 @@ I build AI products, automated trading systems, and full-stack web applications.
 
 ### 🎓 Education
 
-**Computer Science**
+- **Computer Science** — Programming, Data Structures & Algorithms, Databases, Software Engineering, AI/ML fundamentals.
+- **Project Management (Course, 2019–2024)** — project planning, coordination, delivery, and stakeholder management.
 
 ### 📊 Stats
 
