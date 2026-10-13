@@ -42,10 +42,11 @@ I build AI products, automated trading systems, and full-stack web applications.
 - **Founder & Lead Developer — Nurish** (2025–2026): founded and led an AI-powered wellness app; architected the LLM-driven recommendation engine end to end.
 - **Algorithmic Trading Developer** (2022–2026): AI expert advisors, custom TradingView/MetaTrader indicators, MCP trading integrations, backtesting.
 - **Full-Stack Web Developer** (2021–2026): production websites for business clients — responsive, SEO-friendly, deployed and maintained.
+- **Project Manager** (2019–2024): end-to-end planning, coordination, and delivery — scope, timelines, resources, stakeholders.
 
 ### 🎓 Education
 
-**Diploma in Computer Science** — St Paul's University (Expected 2027)
+**Computer Science**
 
 ### 📊 Stats
 
