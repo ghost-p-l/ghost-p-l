@@ -40,7 +40,7 @@ I build AI products, automated trading systems, and full-stack web applications.
 ### 🚀 Experience
 
 - **Founder & Lead Developer — Nurish** (2025–2026): founded and led an AI-powered wellness app; architected the LLM-driven recommendation engine end to end.
-- **Algorithmic Trading Developer** (2022–2026): AI expert advisors, custom TradingView/MetaTrader indicators, MCP trading integrations, backtesting.
+- **Algorithmic Trading Developer** (2022–2026): AI expert advisors, custom TradingView/MetaTrader indicators, MCP trading integrations, backtesting. Completed 12 freelance jobs on [MQL5](https://www.mql5.com/en/users/plane2) (4.3★) — EA conversions, indicator ports, custom Boom/Crash tools.
 - **Full-Stack Web Developer** (2021–2026): production websites for business clients — responsive, SEO-friendly, deployed and maintained.
 - **Project Manager** (2019–2024): end-to-end planning, coordination, and delivery — scope, timelines, resources, stakeholders.
 
@@ -63,3 +63,4 @@ I build AI products, automated trading systems, and full-stack web applications.
 - Email: [libertyjames200@gmail.com](mailto:libertyjames200@gmail.com)
 - Phone: +254 790 689 052
 - Portfolio & CV: [ghost-p-l.github.io](https://ghost-p-l.github.io)
+- MQL5: [plane2](https://www.mql5.com/en/users/plane2) — 12 freelance jobs, 4.3★
