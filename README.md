@@ -4,7 +4,7 @@
 
 # Hi, I'm Liberty James 👋
 
-**Computer Scientist & Software Developer** — Founder of **Nurish**, an AI-driven wellness startup.
+**Computer Scientist & Software Developer**
 I build AI products, automated trading systems, and full-stack web applications.
 
 🌍 Nairobi, Kenya &nbsp;·&nbsp; 📬 libertyjames200@gmail.com &nbsp;·&nbsp; 🌐 [ghost-p-l.github.io](https://ghost-p-l.github.io)
